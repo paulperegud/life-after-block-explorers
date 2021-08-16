@@ -1,0 +1,18 @@
+[submodule "4bytes"]
+	path = 4bytes
+	url = https://github.com/ethereum-lists/4bytes.git
+[submodule "ens"]
+	path = ens
+	url = https://github.com/ensdomains/ens.git
+[submodule "ens-contracts"]
+	path = ens-contracts
+	url = https://github.com/ensdomains/ens-contracts.git
+[submodule "openzeppelin-contracts"]
+	path = openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts.git
+[submodule "panoramix"]
+	path = panoramix
+	url = https://github.com/eveem-org/panoramix.git
+[submodule "miao"]
+	path = miao
+	url = http://github.com/kendricktan/miao.git

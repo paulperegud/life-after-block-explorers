@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "no-etherscan"
+version = "0.1.0"
+description = "Tools for a sad life in a world without Etherscan <3"
+authors = ["Paul Peregud <paulperegud@protonmail.ch>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+web3 = "^5.23.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
